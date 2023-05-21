@@ -4,7 +4,7 @@ Un programme Python qui génère des citations et des blagues sur la programmati
 
 ## Contributeurs
 - `initiateur` : WEYMEELS Nathan Groupe E
-- `contributeur-1` : X
+- `contributeur-1` : LAQCHAA Aymen Groupe E
 - `contributeur-2` : X
 - `contributeur-3` : X
 
