@@ -5,8 +5,8 @@ Un programme Python qui génère des citations et des blagues sur la programmati
 ## Contributeurs
 - `initiateur` : WEYMEELS Nathan Groupe E
 - `contributeur-1` : LAQCHAA Aymen Groupe E
-- `contributeur-2` : X
-- `contributeur-3` : X
+- `contributeur-2` : WANG Léo Groupe E
+- `contributeur-3` : LeGna04
 
 ## URLs des forks
 - `contributeur-1` : [quotes-bar-b](url-1)
