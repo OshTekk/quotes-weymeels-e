@@ -3,10 +3,10 @@
 Un programme Python qui génère des citations et des blagues sur la programmation.
 
 ## Contributeurs
-- `initiateur` : FOO Bar Groupe B
-- `contributeur-1` : BAR Foo Groupe B
-- `contributeur-2` : WIZZ Bang B
-- `contributeur-3` : TOTO Titi Groupe B
+- `initiateur` : WEYMEELS Nathan Groupe E
+- `contributeur-1` : X
+- `contributeur-2` : X
+- `contributeur-3` : X
 
 ## URLs des forks
 - `contributeur-1` : [quotes-bar-b](url-1)
