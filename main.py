@@ -3,7 +3,7 @@ from functions import *
 def menu():
     print("\n==== Programming Quotes ====")
     print("1. Random quote")
-    print("2. All quotes")
+    print("2. Display count")
     print("3. Add quotes")
     print("4. Exit")
 
