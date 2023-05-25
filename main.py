@@ -18,6 +18,8 @@ def main():
         elif choice == "2":
             view_quotes(quotes)
         elif choice == "3":
+            add_quote(quotes, "quotes.txt")
+        elif choice == "4":
             print("Good bye...")
             break
         else:
