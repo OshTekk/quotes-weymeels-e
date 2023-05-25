@@ -5,7 +5,7 @@ Un programme Python qui génère des citations et des blagues sur la programmati
 ## Contributeurs
 - `initiateur` : WEYMEELS Nathan Groupe E
 - `contributeur-1` : WANG Léo Groupe E
-- `contributeur-2` : CHAMONT Maxime Groupe E
+- `contributeur-2` : WANG Léo Groupe E
 - `contributeur-3` : LAQCHAA Aymen Groupe E
 
 ## URLs des forks
