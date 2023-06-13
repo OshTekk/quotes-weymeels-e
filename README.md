@@ -9,6 +9,6 @@ Un programme Python qui génère des citations et des blagues sur la programmati
 - `contributeur-3` : LAQCHAA Aymen Groupe E
 
 ## URLs des forks
-- `contributeur-1` : [quotes-bar-b](url-1)
-- `contributeur-2` : [quotes-wizz-b](url-2)
-- `contributeur-3` : [quotes-toto-b](url-3)
+- `contributeur-1` : [https://github.com/TrucKawaii/quotes-wang-e](url-1)
+- `contributeur-2` : [https://github.com/TrucKawaii/quotes-wang-e](url-2)
+- `contributeur-3` : [https://github.com/KakaLeGoat/quotes-laqchaa-e](url-3)
